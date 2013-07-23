@@ -1,6 +1,6 @@
 {
   "name":"bunyon",
-  "version":"0.1.2",
+  "version":"0.1.3",
   "description":"cleaner than bunyan",
   "keywords":["logging","bunyan"],
   "main":"bunyon.js",

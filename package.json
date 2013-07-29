@@ -1,10 +1,12 @@
 {
   "name":"bunyon",
-  "version":"0.1.4",
+  "version":"0.1.5",
   "description":"cleaner than bunyan",
   "keywords":["logging","bunyan"],
   "main":"bunyon.js",
   "repository":{ "type":"git", "url":"https://github.com/phidelta/bunyon.git" },
   "author":{ "name":"Philipp Dunkel", "email":"p.dunkel@me.com" },
-  "dependencies":{}
+  "dependencies":{
+    "snappy":"*"
+  }
 }
